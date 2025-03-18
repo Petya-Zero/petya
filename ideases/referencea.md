@@ -8,6 +8,7 @@
 
 [Первоисточник с видео](https://dribbble.com/shots/22808264-TENDERbook-AI-powered-mobile-app-for-Tender)
   ![image](https://github.com/user-attachments/assets/7db5fcb4-e2f3-4dec-8095-c5656fca3a0b)
+![image](https://github.com/user-attachments/assets/e66fcee7-c056-4078-a5ba-474770a87478)
 
 3. Мультиплатформ
 
